@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ndatimana-aaaa.github.io/mechanics-LAB/sitemap.xml
